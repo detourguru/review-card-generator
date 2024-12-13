@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary: #006d77;
+    --secondary: #83c5be;
+    --basic: #edf6f9;
+    --stress: #e29578;
+  }
+}
